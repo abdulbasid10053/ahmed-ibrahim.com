@@ -27,4 +27,5 @@ fields:
   name: tags
   label: tags
 pages:
+- content/posts/test-lagi.md
 - content/posts/test-thumbnail.md
