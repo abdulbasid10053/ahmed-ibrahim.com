@@ -27,5 +27,6 @@ fields:
   name: tags
   label: tags
 pages:
+- content/posts/judul-artikel.md
 - content/posts/test-lagi.md
 - content/posts/test-thumbnail.md
