@@ -12,5 +12,12 @@ export default [
     path: 'https://basiit-abdul.netlify.app',
     source: 'https://basiit-abdul.netlify.app',
     description: 'Personal theme for Gatsby (the source of this website).',
-  }
+  },
+    {
+    icon: '🌐',
+    title: 'Babas404',
+    path: 'https://babas404.blogspot.com',
+    source: 'https://babas404.blogspot.com',
+    description: 'Babas404 adalah Portal Tech Antusias. Kami membahas berbagai hal seputar Teknologi, Tips Trik, Lirik Lagu, Chord Gitar, Sinopsis Film Windows Android, IOS, PC, Tempat Download Software Aplikasi dan Game Gratis Full Version, MOD untuk Android, PC, PSP, dll.',
+  },
 ]
