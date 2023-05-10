@@ -16,8 +16,15 @@ export default [
     {
     icon: '🌐',
     title: 'Babas404',
-    path: 'https://babas404.blogspot.com',
-    source: 'https://babas404.blogspot.com',
+    path: 'https://babas404.com',
+    source: 'https://babas404.com',
     description: 'Babas404 adalah Portal Tech Antusias. Kami membahas berbagai hal seputar Teknologi, Tips Trik, Lirik Lagu, Chord Gitar, Sinopsis Film Windows Android, IOS, PC, Tempat Download Software Aplikasi dan Game Gratis Full Version, MOD untuk Android, PC, PSP, dll.',
+  },
+   {
+    icon: '🌐',
+    title: 'Babasmedia',
+    path: 'https://Babasmedia.com',
+    source: 'https://Babasmedia.com',
+    description: 'Membahas semua hal yang tentang lifestyle dan hobi termasuk Lirik Makna Lagu, Terjemahan Lagu ke Bahasa Indonesia Lowongan Kerja, Tutorial, Berita',
   },
 ]
